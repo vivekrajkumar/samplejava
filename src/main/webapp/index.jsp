@@ -6,7 +6,7 @@
         <title>Hello Java EE 7 Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Hello This is Java EE 7 Continuous Delivery!</h1>
+        <h1>Hello This is a great Java EE 7 Continuous Delivery!</h1>
         
         GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.
     </body>
