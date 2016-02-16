@@ -7,9 +7,9 @@
     </head>
     <body>
         <h1>Hello This is a Java EE 7 Continuous Delivery!</h1>
-        <h1>GitLab -> Jenkins -> Maven -> Nexus</h1>
-        <h1>Jenkins -> Maven -> Sonar</h1>
-        <h1>Jenkins -> Deploy -> Nexus -> Tomcat7 </h1>
+        <h1>Code Commited:: GitLab -> Jenkins -> Maven -> Nexus</h1>
+        <h1>Build is Available:: Jenkins -> Deploy -> Nexus -> Tomcat7 </h1>
+        <h1>First Job is Over:: Jenkins -> Maven -> Sonar</h1>
         <!--GET all the <a href="${pageContext.request.contextPath}/resources/persons"/>persons</a>.-->
     </body>
 </html>
