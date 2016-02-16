@@ -6,7 +6,7 @@
         <title>Hello Java EE 7 Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Hello This is a great Java EE 7 Continuous Delivery!</h1>
+        <h1>Hello This is a Java EE 7 Continuous Delivery!</h1>
         <h1>GitLab -> Jenkins -> Maven -> Nexus</h1>
         <h1>Jenkins -> Maven -> Sonar</h1>
         <h1>Jenkins -> Deploy -> Nexus -> Tomcat7 </h1>
